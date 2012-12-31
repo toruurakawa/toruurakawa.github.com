@@ -4,7 +4,7 @@
   <title><![CDATA[toruurakawa.github.com]]></title>
   <link href="http://toruurakawa.github.com/atom.xml" rel="self"/>
   <link href="http://toruurakawa.github.com/"/>
-  <updated>2013-01-01T03:03:40+09:00</updated>
+  <updated>2013-01-01T03:06:06+09:00</updated>
   <id>http://toruurakawa.github.com/</id>
   <author>
     <name><![CDATA[Toru Urakawa]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://toruurakawa.github.com/blog/2013/01/01/test/"/>
+    <updated>2013-01-01T03:04:00+09:00</updated>
+    <id>http://toruurakawa.github.com/blog/2013/01/01/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
